@@ -9,7 +9,7 @@ Hey 🖐, In 2020 CoronaVirus pandemic,  Smart City transformation can no longer
 By making use of Arduino, we can relate autonomously to the real world events and offer us with services with or without direct human interference. In this project we use are developing a smart City prototype in the wake of covid-19. There is still a recurring need to curb the spread of the covid-19 spread. In every office, in every classroom, i.e almost at every entrance, checking of masks, temperature (human body) is a must nowadays. Social-distancing in gathering of people. So why not automate these small things and get things done faster and more safely? 
 Website Link -> https://smart-covid19entrances.herokuapp.com/
 
-<img src="https://github.com/snehiljain34/Arduino-Handsfree-Handwash-Dispenser/blob/main/IMG20200407103156.jpg" width="400" height="650" />
+<img src="https://github.com/snehiljain34/SmartEntrances-in-Covid-19-IOT-/blob/main/5.png" width="800" height="450" />
 
 ## License
 **MIT &copy; [Snehil Jain](https://github.com/snehiljain34/Arduino-Handsfree-Handwash-Dispenser/blob/master/LICENSE)**
