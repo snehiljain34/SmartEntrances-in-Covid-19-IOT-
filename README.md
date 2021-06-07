@@ -5,6 +5,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=snehiljain34.MERN-TechBlogs)
 
+![Alt Text](https://smart-covid19entrances.herokuapp.com/)
 Hey 🖐, In 2020 CoronaVirus pandemic,  Smart City transformation can no longer be seen as a luxury as we emerge from the immediate crisis of COVID-19.
 By making use of Arduino, we can relate autonomously to the real world events and offer us with services with or without direct human interference. In this project we use are developing a smart City prototype in the wake of covid-19. There is still a recurring need to curb the spread of the covid-19 spread. In every office, in every classroom, i.e almost at every entrance, checking of masks, temperature (human body) is a must nowadays. Social-distancing in gathering of people. So why not automate these small things and get things done faster and more safely? 
 Website Link -> https://smart-covid19entrances.herokuapp.com/
